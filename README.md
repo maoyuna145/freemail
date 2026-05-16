@@ -1,4 +1,4 @@
-# Freemail - 临时邮箱服务
+# Freemail -临时邮箱服务
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/idinging/freemail)
 
